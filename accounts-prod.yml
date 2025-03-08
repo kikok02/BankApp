@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to BankApp Accounts PROD API application"
   contactDetails:
     name: "Felipe Albuquerque - Developer"
-    email: "b85f7e99db080d63e99f4f37dd4e23934605f4cb91d08e8ad0a56a54d23a399e0d9139b16887e7371a20d7c8468624c7"
+    email: "{cipher}b85f7e99db080d63e99f4f37dd4e23934605f4cb91d08e8ad0a56a54d23a399e0d9139b16887e7371a20d7c8468624c7"
   onCallSupport:
     - (83) 99999-9999
     - (83) 88888-8888
