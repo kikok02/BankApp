@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to BankApp Cards PRODUCTION API application"
+  message: "Welcome to BankApp Cards PROD API application"
   contactDetails:
     name: "Felipe Albuquerque - Developer"
     email: "kikoalbuquerque02@gmail.com"
