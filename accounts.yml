@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to BankApp Accounts REST API application"
   contactDetails:
-    name: "Felipe Ferreira Albuquerque - Developer"
+    name: "Felipe Albuquerque - Developer"
     email: "kikoalbuquerque02@gmail.com"
   onCallSupport:
     - (83) 99999-9999
