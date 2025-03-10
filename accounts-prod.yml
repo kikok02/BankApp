@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to BankApp Accounts WEBHOOKS API application"
+  message: "Welcome to BankApp Accounts PRODUCTION API application"
   contactDetails:
     name: "Felipe Albuquerque - Developer"
     email: "{cipher}b85f7e99db080d63e99f4f37dd4e23934605f4cb91d08e8ad0a56a54d23a399e0d9139b16887e7371a20d7c8468624c7"
