@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to BankApp Loans PRODUCTION API application"
+  message: "Welcome to BankApp Loans PROD API application"
   contactDetails:
     name: "Felipe Albuquerque - Developer"
     email: "kikoalbuquerque02@gmail.com"
